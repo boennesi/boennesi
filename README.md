@@ -1,8 +1,6 @@
 <h2 align="center">
   👋 JavaScript enthusiast here ! 👋
 </h2>
-<br>
-<br>
 <h3 align="center">
   🔭 Mains stacks 🔭
 </h3>
@@ -19,14 +17,12 @@
   <img alt="MongoDB" src ="https://img.shields.io/badge/mongodb-%47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 <br>
-<br>
 <h3 align="center">
   🌱 Interested in / currently learning 🌱
 </h3>
 <p align="center">
   <img alt="Deno" src="https://img.shields.io/badge/deno%20-%2320232a.svg?&style=for-the-badge&logo=deno&logoColor=white"/>
 </p>
-<br>
 <br>
 <h3 align="center">
   📫 Contact 📫
